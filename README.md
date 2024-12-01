@@ -1,6 +1,6 @@
  # About Me
 Hi, my name is Maria Semerkina and I’m interested in learning new things and asking more questions!
-I’m currently studying physics in my undergraduate degree in University College Dublin. I am a high achieving student that loves programming and learning new languages!
+I’m currently studying astrophysics at the University of Cambridge. I am a high achieving student that loves programming and learning new languages!
 
 
 <!---
